@@ -1,0 +1,54 @@
+.firstbox{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+
+}
+.secondbox{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 203px;
+}
+.thirdbox{
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 406px;
+
+}
+.outerdiv{
+    background-color: chartreuse;
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 500px;
+    
+}
+.innerdiv{
+    background-color: rgb(6, 179, 58);
+    height: 250px;
+    width: 250px;
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+.out{
+    background-color: rgb(179, 197, 17);
+    height: 400px;
+    width: 400px;
+
+    
+}
+.in{
+    background-color: rgb(6, 252, 47);
+    height: 350px;
+    width: 350px;
+    position: absolute;
+    left: 200px;
+    bottom: -1000px;
+   
+}
